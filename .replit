@@ -1,0 +1,2 @@
+language = "python3"
+run = "xrandr;export DISPLAY=:0;pip3 install pygame;python3 3D_Viewer.py"
